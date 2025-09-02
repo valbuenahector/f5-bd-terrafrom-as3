@@ -12,12 +12,14 @@
    
 2. On clicking the link, you will enter the course lobby as shown below. Verify the course name  and click Join.
 
-   ![image](../images/udf-email2.png)
+   .. figure:: ../images/udf-email2.png
+      :alt: image
 
    
 3. Click the __DEPLOYMENT__ button on the top left to begin provisioning your personal lab access server and network in AWS. Here we are creating an Ubuntu server to access  AWS resources
 
-   ![image](../images/udf-deployment.png)
+   .. figure:: ../images/udf-deployment.png
+      :alt: image
 
 
 4. 'Region' is ``` us-west-2 ``` Currently, the lab is only designed for AWS resources in the us-west-2
@@ -27,14 +29,16 @@ __Note__: If you're using a Mac and haven't yet downloaded the Remote Desktop Ap
    
 5. Navigate to Components -->  __Systems Jumpbox__ --> __Access__ --> __RDP__ and RDP into the JumpBox
 
-![alt text](../images/RDP_Jumpbox.png)
+   .. figure:: ../images/RDP_Jumpbox.png
+      :alt: alt text
 
    
   You'll be presented with a range of resolution options. Feel free to choose whichever suits your 
   needs. If you don't make a selection, it will automatically default to the highest resolution
   Please use username as ```student``` and password as ```workshop```
   
-   ![alt text](../images/login.png)
+   .. figure:: ../images/login.png
+      :alt: alt text
 
    __Note__ if you get this window please cancel and move forward
 
@@ -72,7 +76,8 @@ left corner and proceed to click on it to view the available applications.
 7. On the browser, under the deployment tab, click on **Cloud Accounts** and look for the **API Key** and **API Secret** as shown below
 We will be using the AWS key ID and  AWS Secret Keys and configure these in Terraform Cloud for authenticating  the AWS Cloud to create infrastructure.
 
-  ![alt text](../images/console.png)
+   .. figure:: ../images/console.png
+      :alt: alt text
 
    We'll require this information to input as AWS credentials into HCP Terraform, as all tasks will 
    be executed through HCP Terraform.

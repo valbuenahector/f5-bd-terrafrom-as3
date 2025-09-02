@@ -13,10 +13,10 @@ import f5_sphinx_theme
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "Automation, Orchestration & DevOps"
+classname = "Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 with Terraform Cloud"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/f5devcentral/f5-bd-ansible-labs"
+github_repo = "https://github.com/valbuenahector/f5-bd-terrafrom-as3/tree/main"
 
 #
 # END CONFIG
