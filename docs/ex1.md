@@ -4,6 +4,7 @@
 1. Prior to this workshop, student must have received an email with your login instructions and a link to access the UDF course. We need this to access and deploy  infrastructure on AWS for this lab. 
 
   ![image](../images/udf-email.png)
+  .. image:: ../images/udf-email.png
 
    
    **Note:** If you are not able to find these details please ask the instructor.
