@@ -11,7 +11,7 @@ Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 w
    ex3.md
    ex4.md
    ex5.md
-   ex6.md
+
 
 
 
