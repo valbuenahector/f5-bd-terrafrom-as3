@@ -1,14 +1,17 @@
-F5 Automation & Orchestration Workshop
-=======================================
+Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 with Terraform Cloud
+===================================================================================================
 
-This workshop is designed to introduce participants to F5’s automation and orchestration capabilities, focusing on the use of Ansible and Terraform for managing F5 devices. The workshop is structured into two main days, each covering different aspects of automation.
-
+- This lab is designed for those looking to modernize their infrastructure and migrate their legacy BIG-IP configurations to AS3 with Terraform. 
+- You will learn how to deploy BIG-IP in the AWS cloud using Terraform 
+- You will learn how to utilize Terraform imperative resources to set up BIG-IP configurations
+- Employ the VScode with BIG-IP Extension to transform your current configuration into AS3 format and execute the deployment of AS3 configurations onto BIG-IP using Terraform.
+- By the end of this lab, you'll have the skills and knowledge to modernize your infrastructure and take advantage of the benefits of AS3.
 
 DAY 2
 =====
  
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Contents:
 
    overview.md
