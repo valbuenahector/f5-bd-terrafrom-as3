@@ -10,4 +10,4 @@ Lab Overview
 
 ![image](https://github.com/f5businessdevelopment/bigipworkshop/assets/13858248/37354055-ff8e-408b-b829-436b8771fc4c)
 
-[GoTo Next Exercise 1 Explore UDF and access AWS Environment](ex1.md)
+
