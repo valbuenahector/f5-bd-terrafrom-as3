@@ -84,4 +84,4 @@ We will be using the AWS key ID and  AWS Secret Keys and configure these in Terr
 
 [GoTo Next Exercise2 Create a New Organisation and Workspace on HCP Terraform](ex2.md)
 
-[GoBack](../README.md)
+[GoBack](overview.md)
