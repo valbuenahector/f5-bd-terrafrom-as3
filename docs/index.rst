@@ -2,7 +2,7 @@ Modernize Core Infrastructure by Migrating Legacy BIG-IP Configurations to AS3 w
 ===================================================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    overview.md
